@@ -1,0 +1,5 @@
+package com.udemycourse.springboot.backend.apirest.models.entity;
+
+public class Cliente extends Model {
+
+}

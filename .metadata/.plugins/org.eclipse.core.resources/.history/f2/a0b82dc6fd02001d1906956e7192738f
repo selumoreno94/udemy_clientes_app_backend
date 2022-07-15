@@ -1,0 +1,77 @@
+package com.udemycourse.springboot.backend.apirest.models.entity;
+
+import java.io.Serializable;
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+
+import org.springframework.data.annotation.Id;
+
+@Entity
+public class Cliente implements Serializable{
+
+	@Id
+	@Column
+	private Long id;
+	@Column
+	private String nombre, apellido, email;
+	@Column
+	private Integer edad;
+	@Column
+	private Date createAt;
+	public Long getId() {
+		return id;
+	}
+	public void setId(Long id) {
+		this.id = id;
+	}
+	public String getNombre() {
+		return nombre;
+	}
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	public String getApellido() {
+		return apellido;
+	}
+	public void setApellido(String apellido) {
+		this.apellido = apellido;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public Integer getEdad() {
+		return edad;
+	}
+	public void setEdad(Integer edad) {
+		this.edad = edad;
+	}
+	public Date getCreateAt() {
+		return createAt;
+	}
+	public void setCreateAt(Date createAt) {
+		this.createAt = createAt;
+	}
+	@Override
+	public String toString() {
+		return "Cliente [id=" + id + ", nombre=" + nombre + ", apellido=" + apellido + ", email=" + email + ", edad="
+				+ edad + ", createAt=" + createAt + "]";
+	}
+	public Cliente() {
+		
+	}
+	public Cliente(Long id, String nombre, String apellido, String email, Integer edad, Date createAt) {
+		super();
+		this.id = id;
+		this.nombre = nombre;
+		this.apellido = apellido;
+		this.email = email;
+		this.edad = edad;
+		this.createAt = createAt;
+	}
+	
+}
