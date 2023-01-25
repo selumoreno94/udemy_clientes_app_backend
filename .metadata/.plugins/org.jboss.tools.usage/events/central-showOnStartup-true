@@ -1,10 +1,10 @@
-#Thu Jul 14 00:07:08 CEST 2022
+#Thu Jan 19 20:46:26 CET 2023
 ct=central
 a=showOnStartup
-c=1
+c=2
 s=0
-d=1657750028326
-v=2.2.400.v20220119-0810
+d=1674157586480
+v=2.2.500.v20220704-1257
 cmp=usage
 cl=true
 l=true|false|N/A

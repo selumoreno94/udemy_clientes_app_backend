@@ -1,9 +1,9 @@
-#Thu Jul 14 00:40:43 CEST 2022
+#Tue Jul 26 11:26:13 CEST 2022
 ct=jbt
 a=finishWizard
 c=0
-s=1
-d=1657752043698
+s=0
+d=1658827573049
 v=2.2.400
 vl=How many times the 'Finish' button pressed during the day
 cmp=usage

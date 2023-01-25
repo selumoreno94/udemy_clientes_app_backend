@@ -7,16 +7,17 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.PrePersist;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-import org.springframework.data.annotation.Id;
 import org.springframework.lang.NonNull;
 import org.springframework.lang.Nullable;
 
 @Entity
-@Table(name = "clientes")
+@Table(name="clientes")
 public class Cliente implements Serializable{
 
 	private static final long serialVersionUID = 7568726943577875144L;
@@ -26,15 +27,28 @@ public class Cliente implements Serializable{
 	@Column
 	@NonNull
 	private Long id;
+	
 	@Column
 	@NonNull
-	private String nombre, apellido, email;
+	private String nombre;
+	
+	@Column
+	@NonNull
+	private String apellido;
+	
+	@Column
+	@NonNull
+	private String email;
+	
 	@Column
 	@Nullable
 	private Integer edad;
+	
 	@Column(name = "create_at")
+	@NonNull
 	@Temporal(TemporalType.DATE)
 	private Date createAt;
+	
 	public Long getId() {
 		return id;
 	}
@@ -87,6 +101,11 @@ public class Cliente implements Serializable{
 		this.email = email;
 		this.edad = edad;
 		this.createAt = createAt;
+	}
+	
+	@PrePersist // ESTA ANOTATION AUTOMATIZA FECHAS A LA HORA DE PERSISTIR, HACIENDO QUE NO HAGA FALTA INDICAR LA FECHA DE CREACION
+	private void prePersis() {
+		this.createAt = new Date();
 	}
 	
 }
