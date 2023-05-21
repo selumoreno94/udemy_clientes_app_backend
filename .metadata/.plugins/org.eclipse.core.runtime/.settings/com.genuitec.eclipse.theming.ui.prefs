@@ -1,12 +1,11 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1649720987000
-configurationInstallLocation=/D\:/_ARCHIVOS_DE_PROGRAMA/eclipse_developer/eclipse/
-ct.upsell.display.after=1657922823253
+configurationInstallLocation=/C\:/Users/jose.morenoburguillo/eclipse/java-2023-03/eclipse/
+ct.upsell.display.after=1684760328298
 eclipse.preferences.version=1
 iconcolormode=primary
-iconreplacement=false
-last.download.attempt.time=1674157583581
-lastConfiguration=1674157574946
+last.download.attempt.time=1684608540189
+lastConfiguration=1684608526384
 newinstall=false
 showWelcomeDialog=false
-workbench.theme=Dark Windows 11
+workbench.theme=Dark Gray

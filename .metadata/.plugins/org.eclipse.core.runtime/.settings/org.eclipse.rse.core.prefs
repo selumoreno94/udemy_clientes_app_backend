@@ -1,4 +1,4 @@
-activeuserprofiles=NFORTEC-SELU;Team
+activeuserprofiles=PLX10300-005;Team
 eclipse.preferences.version=1
-org.eclipse.rse.systemtype.local.systemType.defaultUserId=Selu Moreno
-useridperkey=NFORTEC-SELU.Local\=Selu Moreno;
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=jose.morenoburguillo
+useridperkey=PLX10300-005.Local\=jose.morenoburguillo;

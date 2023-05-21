@@ -1,17 +1,0 @@
-
-P
-java:S3751%"Make this method non "private".(δΖ¨ΗώÿÿÿÿHΎRMAJORZ
-CODE_SMELL
-w
-java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(“δΎψÿÿÿÿHΏRCRITICALZVULNERABILITY
-P
-java:S3751+"Make this method non "private".(“δΎψÿÿÿÿHΐRMAJORZ
-CODE_SMELL
-q
-java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(·”VHΑRCRITICALZVULNERABILITY
-J
-java:S37512"Make this method non "private".(·”VHΒRMAJORZ
-CODE_SMELL
-P
-java:S3751>"Make this method non "private".(Σ‘ντόÿÿÿÿHΓRMAJORZ
-CODE_SMELL
