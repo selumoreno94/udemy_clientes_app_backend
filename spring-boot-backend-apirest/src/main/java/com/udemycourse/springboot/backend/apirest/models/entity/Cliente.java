@@ -12,9 +12,9 @@ import javax.persistence.PrePersist;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
-
-import org.springframework.lang.NonNull;
-import org.springframework.lang.Nullable;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.Size;
 
 @Entity
 @Table(name="clientes")
@@ -24,28 +24,33 @@ public class Cliente implements Serializable{
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column
-	@NonNull
+	@Column(nullable = false, unique = true)
+	//@NonNull
 	private Long id;
 	
-	@Column
-	@NonNull
+	@Column(nullable = false)
+	//@NonNull
+	@NotEmpty(message = "No puede estar vacío")
+	@Size(min = 3, message = "El tamaño minimo debe de ser de 3 caracteres")
 	private String nombre;
 	
-	@Column
-	@NonNull
+	@Column(nullable = false)
+	//@NonNull
+	@NotEmpty(message = "No puede estar vacío")
 	private String apellido;
 	
-	@Column
-	@NonNull
+	@Column(nullable = false, unique = true)
+	//@NonNull
+	@NotEmpty(message = "No puede estar vacío")
+	@Email(message = "El email no tiene un formato correcto")
 	private String email;
 	
 	@Column
-	@Nullable
+	//@Nullable
 	private Integer edad;
 	
-	@Column(name = "create_at")
-	@NonNull
+	@Column(name = "create_at", nullable = false, unique = false)
+	//@NonNull
 	@Temporal(TemporalType.DATE)
 	private Date createAt;
 	
@@ -85,7 +90,7 @@ public class Cliente implements Serializable{
 	public void setCreateAt(Date createAt) {
 		this.createAt = createAt;
 	}
-	@Override
+	//@Override
 	public String toString() {
 		return "Cliente [id=" + id + ", nombre=" + nombre + ", apellido=" + apellido + ", email=" + email + ", edad="
 				+ edad + ", createAt=" + createAt + "]";

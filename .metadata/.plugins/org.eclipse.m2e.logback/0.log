@@ -562,3 +562,726 @@
 2023-05-20 21:19:14,087 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-05-20 21:19:14,087 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2023-05-20 21:19:14,087 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-22 09:19:43,570 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-24 08:18:14,195 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-24 08:19:09,751 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:19:09,751 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:19:09,758 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:19:09,780 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:19:09,790 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:19:09,791 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:19:09,791 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:20:03,899 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:20:03,899 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:20:03,902 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 08:20:03,903 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:20:03,907 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:20:03,907 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:20:03,907 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:26:42,645 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:26:42,647 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:26:42,647 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 08:26:42,647 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:26:42,652 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:26:42,652 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:26:42,652 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:37:29,106 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:37:29,106 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:37:29,110 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:37:29,119 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:37:29,125 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:37:29,125 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:37:29,126 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:46:16,583 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:46:16,583 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:46:16,584 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:46:16,591 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:46:16,595 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:46:16,595 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:46:16,595 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:48:18,228 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:48:18,228 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:48:18,230 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:48:18,240 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:48:18,244 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:48:18,244 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:48:18,245 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:49:02,898 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:49:02,898 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:49:02,899 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:49:02,908 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:49:02,912 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:49:02,913 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:49:02,913 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:54:41,211 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-24 08:54:41,992 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:54:41,993 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:54:41,996 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 08:54:41,997 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 08:54:42,004 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:54:42,005 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:54:42,005 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:54:42,495 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-24 08:54:43,077 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-24 08:54:43,640 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.7.1/spring-boot-starter-security-2.7.1-sources.jar
+2023-05-24 08:54:43,699 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-security/2.7.1/spring-boot-starter-security-2.7.1-sources.jar
+2023-05-24 08:54:43,705 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-security:2.7.1
+2023-05-24 08:54:43,931 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.7.2/spring-security-config-5.7.2-sources.jar
+2023-05-24 08:54:43,937 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/main/java
+2023-05-24 08:54:43,938 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-24 08:54:43,940 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-24 08:54:43,941 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/test/java
+2023-05-24 08:54:43,946 [Worker-43: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-05-24 08:54:44,479 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.7.2/spring-security-config-5.7.2-sources.jar
+2023-05-24 08:54:44,486 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:5.7.2
+2023-05-24 08:54:44,660 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.7.2/spring-security-core-5.7.2-sources.jar
+2023-05-24 08:54:45,112 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:54:45,112 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:54:45,116 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:54:45,135 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:54:45,143 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:54:45,143 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:54:45,143 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:54:45,540 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.7.2/spring-security-core-5.7.2-sources.jar
+2023-05-24 08:54:45,544 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.7.2
+2023-05-24 08:54:45,753 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.7.2/spring-security-crypto-5.7.2-sources.jar
+2023-05-24 08:54:45,845 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.7.2/spring-security-crypto-5.7.2-sources.jar
+2023-05-24 08:54:45,853 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-crypto:5.7.2
+2023-05-24 08:54:46,112 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.7.2/spring-security-web-5.7.2-sources.jar
+2023-05-24 08:54:46,512 [Worker-37: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.7.2/spring-security-web-5.7.2-sources.jar
+2023-05-24 08:54:46,516 [Worker-37: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:5.7.2
+2023-05-24 08:54:46,598 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 2,00 sec 
+2023-05-24 08:54:48,859 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:54:48,859 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:54:48,860 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:54:48,862 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 08:54:48,871 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 08:54:48,871 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 08:54:48,871 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 08:55:03,238 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [273])
+2023-05-24 08:55:03,241 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-24 08:55:03,241 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-24 08:55:03,241 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-24 08:55:03,241 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-24 08:55:03,241 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-24 08:55:03,241 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-24 08:55:03,241 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-24 08:55:03,242 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-24 08:55:03,243 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-24 08:55:03,244 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-24 08:55:03,246 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-05-24 08:55:03,247 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-24 08:55:03,247 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [441])
+2023-05-24 08:55:03,248 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-05-24 08:55:03,248 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-05-24 08:55:03,249 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-24 08:55:03,249 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-05-24 08:55:03,250 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-24 08:55:03,250 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-05-24 08:55:03,250 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-24 08:55:03,250 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-05-24 08:55:03,251 [Worker-49: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-24 08:55:03,255 [Worker-49: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest":
+2023-05-24 08:55:03,255 [Worker-49: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean compile install
+2023-05-24 09:04:08,552 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 09:04:08,553 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 09:04:08,554 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 09:04:08,562 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 09:04:08,568 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 09:04:08,568 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 09:04:08,568 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 09:04:58,060 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 09:04:58,061 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 09:04:58,062 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 09:04:58,070 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 09:04:58,074 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 09:04:58,074 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 09:04:58,074 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 12:59:41,338 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 12:59:41,338 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 12:59:41,338 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 12:59:41,346 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 12:59:41,349 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 12:59:41,349 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 12:59:41,349 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 13:01:40,863 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-24 13:39:55,932 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 13:39:55,935 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 13:39:55,941 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 13:39:55,967 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 13:39:55,973 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 13:39:55,973 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 13:39:55,973 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 13:47:46,584 [Worker-35: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-24 13:47:46,933 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 13:47:46,934 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 13:47:46,938 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 13:47:46,938 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-24 13:47:46,944 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 13:47:46,945 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 13:47:46,945 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 13:48:25,896 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [273])
+2023-05-24 13:48:25,900 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-24 13:48:25,900 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-24 13:48:25,901 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-24 13:48:25,901 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-24 13:48:25,901 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-24 13:48:25,901 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-24 13:48:25,901 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-24 13:48:25,901 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-24 13:48:25,901 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-24 13:48:25,901 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-24 13:48:25,902 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-24 13:48:25,902 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-24 13:48:25,902 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-24 13:48:25,902 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-24 13:48:25,903 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-24 13:48:25,903 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-24 13:48:25,903 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-24 13:48:25,903 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-24 13:48:25,903 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-24 13:48:25,905 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-24 13:48:25,906 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-24 13:48:25,907 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-05-24 13:48:25,909 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-24 13:48:25,909 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [441])
+2023-05-24 13:48:25,909 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-05-24 13:48:25,909 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-05-24 13:48:25,910 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-24 13:48:25,910 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-05-24 13:48:25,911 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-24 13:48:25,911 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-05-24 13:48:25,912 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-24 13:48:25,912 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-05-24 13:48:25,913 [Worker-42: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-24 13:48:25,917 [Worker-42: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest":
+2023-05-24 13:48:25,917 [Worker-42: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean compile install
+2023-05-24 13:48:50,130 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-24 13:48:50,303 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-24 13:48:51,101 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/main/java
+2023-05-24 13:48:51,101 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-24 13:48:51,102 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-24 13:48:51,104 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/test/java
+2023-05-24 13:48:51,107 [Worker-43: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-05-24 13:48:52,300 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 13:48:52,301 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 13:48:52,307 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 13:48:52,328 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 13:48:52,341 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 13:48:52,342 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 13:48:52,342 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 13:48:53,067 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 1,00 sec 
+2023-05-24 13:48:53,733 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 13:48:53,734 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 13:48:53,735 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 13:48:53,739 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 13:48:53,749 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 13:48:53,750 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 13:48:53,750 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 13:58:01,414 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-24 14:14:20,676 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 14:14:20,676 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 14:14:20,681 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 14:14:20,706 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 14:14:20,710 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 14:14:20,710 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 14:14:20,711 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 14:17:33,853 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 14:17:33,853 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 14:17:33,857 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 14:17:33,873 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 14:17:33,879 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 14:17:33,879 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 14:17:33,880 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 14:17:37,053 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 14:17:37,054 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 14:17:37,054 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 14:17:37,072 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 14:17:37,076 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 14:17:37,076 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 14:17:37,076 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 14:37:15,207 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 14:37:15,208 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 14:37:15,208 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 14:37:15,222 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 14:37:15,226 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 14:37:15,226 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 14:37:15,227 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 16:48:21,807 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 16:48:21,807 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 16:48:21,808 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 16:48:21,815 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 16:48:21,819 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 16:48:21,819 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 16:48:21,819 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-24 16:49:17,629 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 16:49:17,629 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 16:49:17,630 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 16:49:17,635 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-24 16:49:17,639 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-24 16:49:17,639 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-24 16:49:17,640 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:28:39,415 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-25 14:28:39,992 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:28:39,993 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:28:39,999 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 14:28:39,999 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 14:28:40,005 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:28:40,005 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:28:40,005 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:28:41,586 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.7.1/spring-boot-starter-validation-2.7.1-sources.jar
+2023-05-25 14:28:41,665 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-validation/2.7.1/spring-boot-starter-validation-2.7.1-sources.jar
+2023-05-25 14:28:41,669 [Worker-92: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-validation:2.7.1
+2023-05-25 14:28:41,843 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.2.3.Final/hibernate-validator-6.2.3.Final-sources.jar
+2023-05-25 14:28:42,077 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.2.3.Final/hibernate-validator-6.2.3.Final-sources.jar
+2023-05-25 14:28:42,081 [Worker-92: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator:6.2.3.Final
+2023-05-25 14:28:42,253 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar
+2023-05-25 14:28:42,357 [Worker-92: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar
+2023-05-25 14:28:42,359 [Worker-92: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.validation:jakarta.validation-api:2.0.2
+2023-05-25 14:29:45,916 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:29:45,916 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:29:45,917 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:29:45,929 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:29:45,934 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:29:45,935 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:29:45,935 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:31:26,461 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:31:26,461 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:31:26,461 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:31:26,468 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:31:26,471 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:31:26,471 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:31:26,471 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:32:24,295 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:32:24,295 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:32:24,295 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:32:24,300 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:32:24,303 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:32:24,303 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:32:24,303 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:32:52,208 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:32:52,209 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:32:52,209 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:32:52,218 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:32:52,220 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:32:52,220 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:32:52,220 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:32:57,091 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 14:32:57,265 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-25 14:32:57,718 [Worker-89: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/main/java
+2023-05-25 14:32:57,718 [Worker-89: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 14:32:57,718 [Worker-89: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 14:32:57,718 [Worker-89: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/test/java
+2023-05-25 14:32:57,722 [Worker-89: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-05-25 14:32:58,675 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:32:58,675 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:32:58,680 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:32:58,696 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:32:58,703 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:32:58,703 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:32:58,703 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:32:59,312 [Worker-89: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 1,00 sec 
+2023-05-25 14:32:59,856 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:32:59,856 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:32:59,856 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:32:59,860 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:32:59,870 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:32:59,870 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:32:59,870 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:33:37,951 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [273])
+2023-05-25 14:33:37,953 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-05-25 14:33:37,954 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-05-25 14:33:37,954 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-05-25 14:33:37,954 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-05-25 14:33:37,954 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-05-25 14:33:37,954 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-05-25 14:33:37,954 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-05-25 14:33:37,954 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-05-25 14:33:37,955 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-05-25 14:33:37,955 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-05-25 14:33:37,955 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-05-25 14:33:37,955 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-05-25 14:33:37,955 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-05-25 14:33:37,955 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-05-25 14:33:37,955 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-05-25 14:33:37,955 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-05-25 14:33:37,956 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-05-25 14:33:37,956 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-05-25 14:33:37,956 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-05-25 14:33:37,956 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-05-25 14:33:37,956 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-05-25 14:33:37,956 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-05-25 14:33:37,956 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-05-25 14:33:37,956 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-05-25 14:33:37,957 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-05-25 14:33:37,958 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-05-25 14:33:37,959 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-05-25 14:33:37,961 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-05-25 14:33:37,961 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [441])
+2023-05-25 14:33:37,962 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-05-25 14:33:37,962 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-05-25 14:33:37,962 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-05-25 14:33:37,963 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-05-25 14:33:37,963 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-05-25 14:33:37,964 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-05-25 14:33:37,964 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-05-25 14:33:37,964 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-05-25 14:33:37,965 [Worker-93: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-05-25 14:33:37,971 [Worker-93: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest":
+2023-05-25 14:33:37,972 [Worker-93: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean compile install
+2023-05-25 14:34:00,165 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 14:34:00,301 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-25 14:34:00,793 [Worker-95: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/main/java
+2023-05-25 14:34:00,793 [Worker-95: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 14:34:00,793 [Worker-95: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 14:34:00,794 [Worker-95: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/test/java
+2023-05-25 14:34:00,794 [Worker-95: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-05-25 14:34:01,502 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:34:01,502 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:34:01,508 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:34:01,524 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:34:01,531 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:34:01,531 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:34:01,531 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 14:34:02,024 [Worker-95: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-05-25 14:34:02,316 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:34:02,316 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:34:02,316 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:34:02,318 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 14:34:02,322 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 14:34:02,322 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 14:34:02,323 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 16:59:33,329 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 16:59:33,450 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-25 16:59:33,808 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/main/java
+2023-05-25 16:59:33,808 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 16:59:33,808 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 16:59:33,809 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/test/java
+2023-05-25 16:59:33,809 [Worker-90: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-05-25 16:59:34,682 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 16:59:34,682 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 16:59:34,686 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 16:59:34,700 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 16:59:34,708 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 16:59:34,708 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 16:59:34,708 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 16:59:35,289 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 1,00 sec 
+2023-05-25 16:59:35,584 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 16:59:35,585 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 16:59:35,585 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 16:59:35,586 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 16:59:35,592 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 16:59:35,592 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 16:59:35,592 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:00:22,129 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:00:22,129 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:00:22,130 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 17:00:22,130 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 17:00:22,132 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:00:22,132 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:00:22,132 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:01:13,351 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:01:13,351 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:01:13,351 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:01:13,353 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:01:13,358 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:01:13,358 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:01:13,358 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:01:33,814 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:01:33,814 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:01:33,815 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:01:33,817 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:01:33,823 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:01:33,823 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:01:33,823 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:01:49,094 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:01:49,094 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:01:49,095 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:01:49,097 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:01:49,105 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:01:49,105 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:01:49,105 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:01:55,934 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:01:55,934 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:01:55,934 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 17:01:55,934 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 17:01:55,936 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:01:55,936 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:01:55,936 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:02:25,105 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:02:25,105 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:02:25,106 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 17:02:25,106 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 17:02:25,111 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:02:25,111 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:02:25,111 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:05:03,604 [Worker-118: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-25 17:05:03,803 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:03,804 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:03,807 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 17:05:03,808 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-25 17:05:03,812 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:03,812 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:03,812 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:05:04,156 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 17:05:04,418 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-25 17:05:04,791 [Worker-116: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/main/java
+2023-05-25 17:05:04,791 [Worker-116: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 17:05:04,791 [Worker-116: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 17:05:04,792 [Worker-116: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/test/java
+2023-05-25 17:05:04,792 [Worker-116: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-05-25 17:05:05,352 [Worker-125: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2023-05-25 17:05:05,606 [Worker-125: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2023-05-25 17:05:05,612 [Worker-125: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.24
+2023-05-25 17:05:07,639 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:07,640 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:07,645 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:07,690 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:07,704 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:07,704 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:07,705 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:05:08,224 [Worker-116: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 3,00 sec 
+2023-05-25 17:05:09,221 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:09,221 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:09,222 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:09,224 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:09,229 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:09,229 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:09,229 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:05:20,782 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-05-25 17:05:20,869 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-05-25 17:05:21,075 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/main/java
+2023-05-25 17:05:21,075 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 17:05:21,075 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-05-25 17:05:21,075 [Worker-133: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/test/java
+2023-05-25 17:05:21,075 [Worker-133: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-05-25 17:05:22,156 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:22,157 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:22,160 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:22,176 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:22,185 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:22,185 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:22,185 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:05:22,572 [Worker-133: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 1,00 sec 
+2023-05-25 17:05:22,991 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:22,991 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:22,991 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:22,993 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:22,996 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:22,996 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:22,996 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:05:27,648 [Worker-132: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest":
+2023-05-25 17:05:27,649 [Worker-132: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean compile install
+2023-05-25 17:05:53,237 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:53,237 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:53,237 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:53,243 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:05:53,245 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:05:53,245 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:05:53,245 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:06:01,136 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:06:01,136 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:06:01,137 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:06:01,147 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:06:01,151 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:06:01,151 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:06:01,151 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-05-25 17:22:53,537 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:22:53,537 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:22:53,538 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:22:53,544 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-25 17:22:53,546 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-25 17:22:53,546 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-25 17:22:53,546 [Worker-144: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-06 17:06:58,071 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-06 17:09:50,369 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [273])
+2023-06-06 17:09:50,376 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-06-06 17:09:50,376 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-06-06 17:09:50,376 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-06-06 17:09:50,376 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-06-06 17:09:50,376 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-06-06 17:09:50,377 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-06-06 17:09:50,377 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-06-06 17:09:50,377 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-06-06 17:09:50,377 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-06-06 17:09:50,377 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-06-06 17:09:50,377 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-06-06 17:09:50,377 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-06-06 17:09:50,378 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-06-06 17:09:50,378 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-06-06 17:09:50,378 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-06-06 17:09:50,378 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-06-06 17:09:50,378 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-06-06 17:09:50,378 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-06-06 17:09:50,378 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-06-06 17:09:50,379 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-06-06 17:09:50,379 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-06-06 17:09:50,379 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-06-06 17:09:50,379 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-06-06 17:09:50,379 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-06-06 17:09:50,379 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-06-06 17:09:50,379 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-06-06 17:09:50,380 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-06-06 17:09:50,380 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-06-06 17:09:50,380 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-06-06 17:09:50,380 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-06-06 17:09:50,380 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-06-06 17:09:50,380 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-06-06 17:09:50,380 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-06-06 17:09:50,380 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-06-06 17:09:50,381 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-06-06 17:09:50,381 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-06-06 17:09:50,381 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-06-06 17:09:50,382 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [9])
+2023-06-06 17:09:50,383 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2023-06-06 17:09:50,383 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [441])
+2023-06-06 17:09:50,383 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-06-06 17:09:50,383 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [21])
+2023-06-06 17:09:50,385 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-06-06 17:09:50,385 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [19])
+2023-06-06 17:09:50,387 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-06-06 17:09:50,387 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [41])
+2023-06-06 17:09:50,388 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-06-06 17:09:50,388 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [11])
+2023-06-06 17:09:50,389 [Worker-12: Launching [ONL] - CCI] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\jose.morenoburguillo\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-06-06 17:09:50,397 [Worker-12: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest":
+2023-06-06 17:09:50,399 [Worker-12: Launching [ONL] - CCI] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -U -Dmaven.test.skip=true -DskipTests -Dstyle.color=always clean compile install
+2023-06-06 17:10:23,444 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-06 17:10:23,958 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.udemycourse.springboot.backend.apirest:spring-boot-backend-apirest:0.0.1-SNAPSHOT @ C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\pom.xml.
+2023-06-06 17:10:24,937 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/main/java
+2023-06-06 17:10:24,937 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-06-06 17:10:24,938 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-backend-apirest/src/main/resources
+2023-06-06 17:10:24,938 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-backend-apirest/src/test/java
+2023-06-06 17:10:24,941 [Worker-15: Updating Maven Project] ERROR o.e.m.j.i.AbstractJavaProjectConfigurator - Failed to find a compatible VM for environment id 'JavaSE-18', falling back to workspace default
+2023-06-06 17:10:28,470 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-06 17:10:28,470 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-06 17:10:28,555 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-06 17:10:28,597 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-06 17:10:28,616 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-06 17:10:28,616 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-06 17:10:28,617 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-06 17:10:29,795 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 4,00 sec 
+2023-06-06 17:10:30,444 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-06 17:10:30,444 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-06 17:10:30,444 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-06 17:10:30,448 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-06 17:10:30,458 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-06 17:10:30,459 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-06 17:10:30,459 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-06 17:12:37,444 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-06 17:12:37,445 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-06 17:12:37,448 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-06 17:12:37,493 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-06 17:12:37,499 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-06 17:12:37,499 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-06 17:12:37,499 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-07 10:29:40,955 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-07 10:29:40,955 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-07 10:29:40,957 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-07 10:29:40,973 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-07 10:29:40,975 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-07 10:29:40,976 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-07 10:29:40,976 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-07 10:30:00,380 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-07 10:30:00,380 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-07 10:30:00,381 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-07 10:30:00,386 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-07 10:30:00,390 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-07 10:30:00,390 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-07 10:30:00,390 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-15 12:11:05,720 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:11:05,720 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:11:05,721 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:11:05,746 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:11:05,751 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:11:05,751 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:11:05,751 [Worker-345: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-15 12:23:20,471 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:23:20,471 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:23:20,471 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:23:20,478 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:23:20,480 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:23:20,480 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:23:20,480 [Worker-355: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-15 12:23:54,391 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:23:54,391 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:23:54,392 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:23:54,397 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:23:54,400 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:23:54,400 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:23:54,400 [Worker-356: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-15 12:25:21,860 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:25:21,860 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:25:21,861 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:25:21,866 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:25:21,870 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:25:21,870 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:25:21,870 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-15 12:26:31,102 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:26:31,102 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:26:31,103 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:26:31,108 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:26:31,110 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:26:31,110 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:26:31,110 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
+2023-06-15 12:27:41,723 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:27:41,723 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:27:41,724 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:27:41,730 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-15 12:27:41,733 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-15 12:27:41,733 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-15 12:27:41,733 [Worker-354: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jose.morenoburguillo\Documents\udemy_dev\spring-boot-backend-apirest\src\test\resources
